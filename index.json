@@ -1,0 +1,107 @@
+{
+  "settings": {
+    "publicUrl": "",
+    "timezone": "Asia/Manila",
+    "quickActions": ["call", "email", "messenger", "map"],
+    "poweredBy": {
+      "label": "TapCard",
+      "url": "",
+      "cta": "Get your own digital card"
+    }
+  },
+
+  "theme": {
+    "mode": "light",
+    "primary": "#1F4D3F",
+    "accent": "#E0A458",
+    "background": "#F4EFE7",
+    "surface": "#FFFFFF",
+    "text": "#1E1B18",
+    "muted": "#6B645C",
+    "font": "Plus Jakarta Sans",
+    "radius": 22
+  },
+
+  "profile": {
+    "firstName": "Miguel",
+    "lastName": "Reyes",
+    "title": "Founder & Head Roaster",
+    "company": "Kalye Kape Co.",
+    "tagline": "Specialty coffee, roasted fresh in Quezon City.",
+    "bio": "Kalye Kape started as a small street cart in 2021. Today we roast locally grown beans from Benguet and Sagada and serve them in our cozy café in Teachers Village. We also supply fresh beans to offices, restaurants, and events.",
+    "avatar": "",
+    "logo": "",
+    "cover": "",
+    "verified": true
+  },
+
+  "contact": {
+    "phone": "+639171234567",
+    "phoneDisplay": "+63 917 123 4567",
+    "email": "hello@kalyekape.ph",
+    "website": "https://kalyekape.ph",
+    "messenger": "kalyekape",
+    "whatsapp": "",
+    "viber": "+639171234567",
+    "address": "123 Maginhawa St., Teachers Village, Quezon City",
+    "mapsUrl": ""
+  },
+
+  "links": [
+    { "label": "View our Menu", "icon": "journal-text", "url": "https://kalyekape.ph/menu" },
+    { "label": "Order for Delivery", "icon": "bag-check", "url": "https://kalyekape.ph/order" },
+    { "label": "Book our Event Coffee Bar", "icon": "calendar-check", "url": "https://kalyekape.ph/events" }
+  ],
+
+  "socials": [
+    { "platform": "facebook", "url": "https://facebook.com/kalyekape" },
+    { "platform": "instagram", "url": "https://instagram.com/kalyekape" },
+    { "platform": "tiktok", "url": "https://tiktok.com/@kalyekape" },
+    { "platform": "youtube", "url": "https://youtube.com/@kalyekape" }
+  ],
+
+  "services": [
+    { "icon": "cup-hot", "title": "Specialty Coffee", "description": "Hand-brewed and espresso drinks from local beans." },
+    { "icon": "box-seam", "title": "Wholesale Beans", "description": "Freshly roasted beans for cafés and offices." },
+    { "icon": "calendar-event", "title": "Event Coffee Bar", "description": "Mobile coffee bar for weddings and corporate events." },
+    { "icon": "mortarboard", "title": "Barista Workshops", "description": "Weekend classes for beginners and home brewers." }
+  ],
+
+  "hours": {
+    "schedule": [
+      { "days": ["tue", "wed", "thu", "fri"], "open": "07:00", "close": "21:00" },
+      { "days": ["sat", "sun"], "open": "08:00", "close": "22:00" }
+    ]
+  },
+
+  "reviews": {
+    "googlePlaceId": "ChIJ_REPLACE_WITH_CLIENT_PLACE_ID",
+    "writeReviewUrl": "",
+    "readReviewsUrl": "",
+    "rating": 4.8,
+    "totalReviews": 238,
+    "breakdown": { "5": 210, "4": 20, "3": 5, "2": 2, "1": 1 },
+    "headline": "Enjoyed your coffee?",
+    "message": "Your review helps a small local business like ours grow. It only takes 30 seconds — salamat po!",
+    "featured": [
+      {
+        "name": "Patricia L.",
+        "rating": 5,
+        "date": "2 weeks ago",
+        "text": "Best Spanish latte in Maginhawa! The baristas are super friendly and the place is perfect for working. Fast Wi-Fi too."
+      },
+      {
+        "name": "Carlo M.",
+        "rating": 5,
+        "date": "1 month ago",
+        "text": "We booked their coffee bar for our wedding and our guests couldn't stop talking about it. Professional, on time, and the coffee was amazing."
+      },
+      {
+        "name": "Jen R.",
+        "rating": 4,
+        "date": "1 month ago",
+        "text": "Cozy café with great pour-over options. It gets busy on weekends, but it's worth the wait."
+      }
+    ]
+  }
+}
